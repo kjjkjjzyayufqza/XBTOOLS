@@ -920,8 +920,8 @@ packages:
     resolution: {integrity: sha512-7aqorHYgdNO4DM36stTiGO3DvKoex9TQRwsJU6vMaFGyqpBA1MNZkz+PG3gaNUPpTAOYhT1WR7M1JyA3fbS9Cw==}
     dev: true
 
-  /@types/stack-utils@2.0.1:
-    resolution: {integrity: sha512-Hl219/BT5fLAaz6NDkSuhzasy49dwQS/DSdu4MdggFB8zcXv7vflBI3xp7FEmkmdDkBUI2bPUNeMttp2knYdxw==}
+  /@types/stack-utils@2.0.3:
+    resolution: {integrity: sha512-9aEbYZ3TbYMznPdcdr3SmIrLXwC/AKZXQeCf9Pgao5CKb8CyHuEX5jzWPTkvregvhRJHcpRO6BFoGW9ycaOkYw==}
     dev: true
 
   /@types/use-sync-external-store@0.0.3:
@@ -3059,7 +3059,7 @@ packages:
     dependencies:
       '@babel/code-frame': 7.22.13
       '@jest/types': 29.6.3
-      '@types/stack-utils': 2.0.1
+      '@types/stack-utils': 2.0.3
       chalk: 4.1.2
       graceful-fs: 4.2.11
       micromatch: 4.0.5
